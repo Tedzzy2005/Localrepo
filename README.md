@@ -1,0 +1,1 @@
+This project performs sentiment analysis on the Amazon Alexa Reviews dataset to understand customer feedback and satisfaction. By leveraging machine learning techniques, the model categorizes reviews into positive or negative sentiments, providing actionable insights into product performance.
